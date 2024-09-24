@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Git**
 
-- 📫 How to reach me **vtsiklauri7@gmail.com**
+- 📫 How to reach me: **vtsiklauri7@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
